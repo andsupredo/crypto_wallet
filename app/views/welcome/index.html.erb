@@ -1,7 +1,7 @@
-<h1>Seja Bem-Vindo!</h1>
+<h1>Welcome!</h1>
 <p>The actual language in this application is: <strong><%= locale(I18n.locale) %></strong></p>
-<p><strong>Data:</strong> <%= Date.today %></p>
-
+<p><strong>Date:</strong> <%= l(Date.today) %></p>
+<p><%= t('hello') %></p>
 <%= render "menu" %>
  
 <p>

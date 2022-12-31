@@ -31,7 +31,9 @@
 
 en:
   hello: "Hello world"
+  actual_locale: "English (International)"
   link:
     show: Show
     edit: Edit
     delete: Delete
+    back: Back

@@ -9,7 +9,4 @@ module ApplicationHelper
         end    
     end
 
-    def locale (locale)
-        I18n.locale == :en ? "US English" : "Português do Brasil"
-    end
 end

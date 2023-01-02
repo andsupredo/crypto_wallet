@@ -1,16 +1,7 @@
-<p>
-  <%= link_to 'Português', root_path(locale: 'pt-BR') %>
-</p>
-<p>
-  <%= link_to 'English', root_path(locale: 'en') %>
-</p>
-
-<h1>Welcome!</h1>
-<p>The actual language in this application is: <strong><%= t('actual_locale') %></strong></p>
-<p><strong>Date:</strong> <%= l(Date.today) %></p>
-<p><%= t('hello') %></p>
-<%= render "menu" %>
- 
-<p>
-    You are in <strong><%= ambiente_rails %> </strong> enviroment.
-</p>
+<div class="container-fluid bg-secondary bg-opacity-25 text-black p-4">
+  <h1 class="display-4"><%= t('welcome')%></h1>
+  <p class="lead"><%= t('messages.welcome') %></p>
+  <hr class="my-4">
+  <p><%= t('messages.menu') %></p>
+  <%= render "menu" %>
+</div>

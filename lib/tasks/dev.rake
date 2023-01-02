@@ -25,13 +25,13 @@ namespace :dev do
                 { 
                   description: "Ethereum",
                   acronym: "ETH",
-                  url_image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZCRfwkqpPvFb3QmmwGONG2i6PsgnqZ3L7dRzCNlaSTB1-ruu5",
+                  url_image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png",
                   mining_type: MiningType.all.sample
                 },
                 { 
                   description: "Dash",
                   acronym: "DASH",
-                  url_image: "https://ih1.redbubble.net/image.406055498.8711/ap,550x550,12x12,1,transparent,t.png",
+                  url_image: "https://cryptologos.cc/logos/dash-dash-logo.png",
                   mining_type: MiningType.all.sample
                 },
                 { 

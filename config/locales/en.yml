@@ -33,6 +33,8 @@ en:
   hello: "Hello world"
   current_locale: "English (International)"
   welcome: Welcome!
+  edit_coin: Editing Coin
+  edit_mining_type: Editing Mining Type
   link:
     show: Show
     edit: Edit

@@ -47,3 +47,7 @@ en:
   new:
     coin: New Coin
     mining_type: New Mining Type
+  attributes:
+    description: Enter Descrption
+    acronym: Enter Acronym
+  select: Select

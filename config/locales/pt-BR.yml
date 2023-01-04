@@ -1,0 +1,26 @@
+pt-BR:
+  hello: "Olá mundo"
+  current_locale: "Porguês do Brasil"
+  welcome: Seja bem vindo(a)!
+  edit_coin: Editando Moeda
+  edit_mining_type: Editando Tipo de Mineração
+  link:
+    show: Mostrar
+    edit: Editar
+    delete: Apagar
+    back: Voltar
+  messages:
+    welcome: Este é o Crypto Wallet, um app onde você pode cadastrar e acompanhar suas criptomoedas
+    menu: Para iniciar, selecione uma opção abaixo
+    confirm: Tem certeza?
+  new:
+    coin: Nova Moeda
+    mining_type: Novo Tipo de Mineração
+  attributes:
+    description: Insira a Descrição
+    acronym: Insira a Sigla
+  select: Selecione
+  show:
+    coin: Mostrando Moeda
+    mining_type: Mostrando Tipo de Mineração
+  homepage: Página Inicial

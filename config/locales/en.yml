@@ -51,3 +51,7 @@ en:
     description: Enter Descrption
     acronym: Enter Acronym
   select: Select
+  show:
+    coin: Showing Coin
+    mining_type: Showing Mining Type
+  homepage: Home
